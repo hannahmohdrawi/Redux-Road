@@ -1,5 +1,5 @@
 # Redux Road
-A interactive game based off Tic Tac Toe with a theme of Toad from Mario.
+The creation of an adventure game using Redux's core concepts.
 
 ## Description
 This code was created as part of Codecademy's Full Stack Engineer Path Module 22 Redux.
